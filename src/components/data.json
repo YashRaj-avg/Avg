@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "title": "Resident Evil Village",
+    "description": "Experience survival horror like never before in the eighth major installment in the Resident Evil series.",
+    "price": 49.99,
+    "image": "/re.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Resident Evil 7: Biohazard",
+    "description": "A dramatic new shift for the series to first-person gameplay in the resident evil series.",
+    "price": 29.99,
+    "image": "/r3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Resident Evil 2 Remake",
+    "description": "A spine-chilling reimagining of a horror classic in the resident evil series.",
+    "price": 39.99,
+    "image": "/ww.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Resident Evil 3 Remake",
+    "description": "The pulse-pounding reimagining of Resident Evil 3 returns, re-built from the ground.",
+    "price": 39.99,
+    "image": "5.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Resident Evil 4",
+    "description": "The ultimate in survival horror. Experience one of the most thrilling chapters of the Resident.",
+    "price": 19.99,
+    "image": "/r1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Resident Evil 5",
+    "description": "Chris Redfield, protagonist of the original Resident Evil and Resident Evil Code: Veronica, returns.",
+    "price": 19.99,
+    "image": "/35.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Resident Evil 6",
+    "description": "The President of the United States has decided to reveal the truth behind what took place.",
+    "price": 19.99,
+    "image": "/33.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Resident Evil Revelations",
+    "description": "The survival horror title takes players back to the events that took place between Resident Evil 4.",
+    "price": 29.99,
+    "image": "/NL.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Resident Evil Revelations 2",
+    "description": "The beginning of the Resident Evil Revelations 2 tale sees fan favorite Claire Redfield make a dramatiC.",
+    "price": 29.99,
+    "image": "/da.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Resident Evil Code: Veronica X",
+    "description": "In this terrifying prequel, take a deeper look at the horrors that occurred in Raccoon City in the series.",
+    "price": 19.99,
+    "image": "/11.jpg"
+  }
+]
+
+
