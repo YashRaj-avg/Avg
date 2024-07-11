@@ -32,7 +32,7 @@ const Navbar = () => {
           <Link to="/" className='px-6' onClick={closeDropdown}>HOME</Link>
           <Link to="/gaming" className='px-6' onClick={closeDropdown}>PLAYDATA</Link>
           <Link to="/about" className='px-6' onClick={closeDropdown}>ABOUT</Link>
-          <Link to="watch" className='px-6' onClick={closeDropdown}>WATCH</Link>
+          <Link to="/news" className='px-6' onClick={closeDropdown}>NEWS</Link>
          
 
           <div className='inline-block relative'>
